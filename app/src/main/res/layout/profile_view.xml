@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5">
+
+            <ImageView
+                android:id="@+id/profile_picture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/profile_picture"
+                android:layout_centerHorizontal="true"
+                android:text="Nickname"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Statistics"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Last completed"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/last_comleted_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Last updated"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/last_updated_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_list"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:id="@+id/movies_profile_button"
+                android:layout_width="80dp"
+                android:layout_height="22dp"
+                android:layout_centerHorizontal="true"
+                android:text="@string/films"
+                android:background="@color/mediumFilm"/>
+
+            <TextView
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:id="@+id/series_profile_button"
+                android:layout_width="80dp"
+                android:layout_height="22dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/movies_profile_button"
+                android:text="@string/series"
+                android:background="@color/mediumSeries"/>
+
+            <TextView
+                android:gravity="center"
+                android:id="@+id/anime_profile_button"
+                android:layout_width="80dp"
+                android:layout_height="22dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/series_profile_button"
+                android:text="@string/anime"
+                android:background="@color/mediumAnime"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:id="@+id/books_profile_button"
+                android:layout_width="80dp"
+                android:layout_height="22dp"
+                android:layout_centerHorizontal="true"
+                android:text="@string/books"
+                android:background="@color/mediumBook"/>
+
+            <TextView
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:id="@+id/games_profile_button"
+                android:layout_width="80dp"
+                android:layout_height="22dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/books_profile_button"
+                android:text="@string/games"
+                android:background="@color/mediumGame"/>
+
+            <TextView
+                android:gravity="center"
+                android:id="@+id/manga_profile_button"
+                android:layout_width="80dp"
+                android:layout_height="22dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/games_profile_button"
+                android:text="@string/manga"
+                android:background="@color/mediumManga"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

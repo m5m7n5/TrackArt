@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="softgrey">#AAAAAA</color>
+
+    <!-- Soft colors: Usados para los contenidos no añadidos-->
+    <color name="softFilm">#00BDFF</color>
+    <color name="softAnime">#B37EFF</color>
+    <color name="softManga">#F787FF</color>
+    <color name="softSeries">#FF5A53</color>
+    <color name="softGame">#FFAC73</color>
+    <color name="softBook">#79FF98</color>
+
+    <!-- Medium colors: Usados para los contenidos añadidos-->
+    <color name="mediumFilm">#1E9CFF</color>
+    <color name="mediumAnime">#AE63FF</color>
+    <color name="mediumManga">#F755FF</color>
+    <color name="mediumSeries">#FF3F34</color>
+    <color name="mediumGame">#FF9D4F</color>
+    <color name="mediumBook">#57FF61</color>
+
+    <!-- Hard colors: Usados para los contenidos añadidos y terminados-->
+    <color name="darkFilm">#3961FF</color>
+    <color name="darkAnime">#9E3FFF</color>
+    <color name="darkManga">#F12CFF</color>
+    <color name="darkSeries">#FF2534</color>
+    <color name="darkGame">#FF8E31</color>
+    <color name="darkBook">#3DFF38</color>
+
+</resources>

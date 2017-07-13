@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrackArt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="books">Books</string>
+    <string name="films">Films</string>
+    <string name="games">Games</string>
+    <string name="anime">Anime</string>
+    <string name="manga">Manga</string>
+    <string name="series">Series</string>
+    <string name="your_list">Your lists</string>
+
+</resources>

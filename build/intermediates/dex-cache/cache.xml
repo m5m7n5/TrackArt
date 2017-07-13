@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\12aa9c9164a1848c58b182e22b8ff8b256b0c4e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_543f5f913f3c749ccc99513ea20c93e324b83ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\a4fc2bf6635e867035194a02201a77ba580f9e9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_4025f02139fd28cf58cb59a9980082cacdcd62b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\1450fbaad07282d78a6b45793aff055f2b7e26c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_96057aa0a8b7a4e6832538619bfa7231839187c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\6a707b52396601edd6340444be871a515ae98554\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0383ea061ff92aff86cc8e899378170e19319a2c">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_1265a3bc98daa68606bd046236dd144eaf477e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Programas\AndriodStudioSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4dc7e5d0c4676b8e47279c0bec88c0a3703515a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Programas\AndriodStudioSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_354606b8f072970ba672222e3b3540905c4228ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\427f3441146a57652d3450f1fa4ff9fe52c7c304\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_ce02a1c593b883ae5fe874b815701fdd08b23f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\21ba26ef8f08fa059615624076d53fa741170732\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_7d7cf4451ad021adc8f82b4c5265183a54ac7474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\0797915b4da48a2b4b4e79b04354418b91db5ce3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_ec4795ae92462f3e2208200db99b4ce0b68be65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\787f94d3e77b0a5890dda7f204106a3c0ca3b9b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_700d17841546e67ee2af41bf85b9f548f478837c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\eadf3692359be3d8997b50740f341f7aee999ee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_8d809aaadc16aecc9c99dbbb7cc18a6858d73873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\75f498d1f24468b9623c30dc9b64fc0dd3e89f0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_70c7e05513a029c6a3d77aa61c38b3d033be19db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\9ab8760567b3c8e8af566892dfe53e4e0b1bcddf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_8196af6df0e4d8737584dfccd0beccf176092d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5b9e4bd0f7dbb017adff1bf351d4fbe470f0c0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\04509f44a8608d6b7769af5eedda3538d1bda146\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_f8d198f923ac9c9a47e6aa5d9b487ea5b03ae510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reddi\.android\build-cache\9c3f094938a107a232ce3b9aad7f0da8fc36f2fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Reddi\Desktop\Proyectos\TrackArt\app\build\intermediates\pre-dexed\debug\classes_9a56453dac3b1924cfa3b6f1ba25091738386cc8.jar" />
+    </item>
+
+</items>
